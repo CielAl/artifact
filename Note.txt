@@ -1,0 +1,3 @@
+Functions must be put to replace the original files under DagNN class folders:
+ReLU
+vlnn_relu
